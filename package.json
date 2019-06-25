@@ -1,0 +1,20 @@
+{
+  "name": "desafio01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/loop777/bootcamp-gostack-desafio-01.git",
+  "author": "Ricardo Alcantara <ricardo_alcantara2@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.18.0",
+    "nodemon": "^1.19.1"
+  }
+}
